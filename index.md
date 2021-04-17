@@ -16,7 +16,7 @@ working title
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](http://www.superstreetonline.com/features/1990-mazda-miata-turbo/) and ![Image] 1990-Mazda-Miata-Vented-AD9-Style-Hood.jpeg
+[Link](http://www.superstreetonline.com/features/1990-mazda-miata-turbo/) and ![Image](1990-Mazda-Miata-Vented-AD9-Style-Hood.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
